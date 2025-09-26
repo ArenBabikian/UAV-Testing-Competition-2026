@@ -31,9 +31,14 @@ The submission details for [ICST](https://conf.researchr.org/home/icst-2026) par
 - **Submission Deadline**: end-of-November (tentative)
 - **Notification**: end-of-December (tentative)
 
-<!-- ## Announcements
+## Announcements
 
-Wind! -->
+**New this year!**  
+We are pleased to announce that the UAV Testing Competition will include *wind conditions* as part of the evaluation.
+All submissions will be tested both in standard environments and under varying wind, making the competition closer to real-world scenarios.
+
+<!-- _Want to test out the new wind feature?_ -->
+<!-- We have included **two new case studies**, namely [Mission 4](./snippets/case_studies/mission4.yaml) and [Mission 5](./snippets/case_studies/mission5.yaml), which specifically incorporates wind conditions. -->
 
 ## Getting Started
 
